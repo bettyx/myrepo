@@ -1,2 +1,3 @@
--statusline1status
+line1
 line3
+added one more line
